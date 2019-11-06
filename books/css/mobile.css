@@ -6,12 +6,38 @@
     }
     
     .section-1 .row .col-md-6 .panel{
-	position: initial;
-    width: initial;
-    height: initial;
+        position: initial;
+        width: initial;
+        height: initial;
     }
     
     .section-2 .cover{
-	back
-}
+	    background-position: -25vmin -10vmin
+    }
+    
+    .numbers .rect {
+        width: 10rem;
+        height: 8rem;
+    }
+    
+    .numbers .rect h1{
+        font-size: 2rem;
+    }
+    
+    .section-3 {
+	    height: inherit;
+        padding: 10vmin !important;
+    }
+    
+    .section-3 .row h1{
+        padding: 6vmin 4vmin;        
+    }
+    
+    .section-3 .row .col-md-6 {
+	    text-align: center !important;
+    }
+    
+    .section-3 .desktop{
+        
+    }
 }
